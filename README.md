@@ -1,6 +1,8 @@
 # The Empty Party Scenario Bug
 This bug is difficult to explain without spoilers. The best I can do, with very light spoilers is: This bug occurs if you attempt to recruit Riufan while in the middle of the scenario after Euchrisse.
 
+**If you trigger this bug, you will be stuck with an empty party that you are unable to edit or add characters to. Battles auto-game over and is essentially a soft lock.**
+
 Please not the below description INCLUDES SPOILERS.
 
 # Directions
